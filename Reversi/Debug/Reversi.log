@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem B - 2021\MDMH\Reversi Project\Reversi\Reversi\main.c(659,6): warning C4101: 'rowChoice': unreferenced local variable
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem B - 2021\MDMH\Reversi Project\Reversi\Reversi\main.c(659,17): warning C4101: 'colChoice': unreferenced local variable
+  Reversi.vcxproj -> C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem B - 2021\MDMH\Reversi Project\Reversi\Debug\Reversi.exe
