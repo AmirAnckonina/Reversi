@@ -46,3 +46,7 @@ Reversi.exe
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+![Alt text](Game Screenshots/DoubleTurn.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
