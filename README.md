@@ -44,15 +44,27 @@ Reversi.exe
 
 ## Screenshots
 
+Starting Game
+
 ![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/StartGame.jpg "Starting Game")
+
+After few moves
 
 ![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/StartingToBeFilled.jpg "After few moves")
 
+Pick moment
+
 ![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/PickMoment.jpg "Pick moment")
+
+Handling invalid move
 
 ![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/InvalidMove.jpg "Handling invalid move")
 
+Double turn situation
+
 ![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/DoubleTurn.jpg "Double turn situation")
+
+End of the game
 
 ![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/PlayerWon.jpg "End of the game")
 
