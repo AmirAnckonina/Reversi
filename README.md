@@ -44,16 +44,15 @@ Reversi.exe
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/StartGame.jpg "Starting Game")
 
-![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/StartGame.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/StartingToBeFilled.jpg "After few moves")
 
-![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/StartingToBeFilled.jpg)
-![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/PickMoment.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/PickMoment.jpg "Pick moment")
 
-![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/InvalidMove.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/InvalidMove.jpg "Handling invalid move")
 
-![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/DoubleTurn.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/DoubleTurn.jpg "Double turn situation")
 
-![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/PlayerWon.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Reversi/blob/0f576efe6ed8eff1852f5dddc3ab42e47a8efd50/Game%20Screenshots/PlayerWon.jpg "End of the game")
 
