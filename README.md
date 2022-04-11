@@ -25,7 +25,7 @@ For me, the main goal was to build a modular and organized code.
 Enjoy :)
 
 ## Technologies
-- C++ Programming language 
+- C Programming language 
 - Visual Studio 2019 on Windows 10
 
 ## Run Locally
