@@ -1,6 +1,13 @@
 
 # Reversi Game
 
+## Table of Contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Run Locally](#run-locally)
+* [Running Examples](#running-examples)
+
+## General Info
 Hey! This is my first project using C programming language.
 
 The project implementing the "REVERSI" game.
@@ -17,6 +24,9 @@ For me, the main goal was to build a modular and organized code.
 
 Enjoy :)
 
+## Technologies
+- C++ Programming language 
+- Visual Studio 2019 on Windows 10
 
 ## Run Locally
 
@@ -42,7 +52,7 @@ Run Executable ->
 Reversi.exe
 ```
 
-## Screenshots
+## Running Examples
 
 Starting Game
 
